@@ -4,7 +4,6 @@ from dda_line import dda_line
 def plot_triangle(x1, y1, x2, y2, x3, y3):
     print("\nCalculating Edge AB:")
     x_ab, y_ab = dda_line(x1, y1, x2, y2)
-
     print("\nCalculating Edge BC:")
     x_bc, y_bc = dda_line(x2, y2, x3, y3)
 
