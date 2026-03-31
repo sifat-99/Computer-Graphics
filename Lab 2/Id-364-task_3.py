@@ -47,7 +47,7 @@ def count_pixels(x1, y1, x2, y2):
 if __name__ == "__main__":
     # Diagonal Line (slope = 1)
     x1, y1 = 0, 0
-    x2, y2 = 5, 5
+    x2, y2 = 5, 6
 
     count = count_pixels(x1, y1, x2, y2)
     print(f"Line from ({x1},{y1}) to ({x2},{y2})")

@@ -71,4 +71,3 @@ if __name__ == "__main__":
         print("Invalid input. Please enter numeric values.")
     except KeyboardInterrupt:
         print("\nExiting program.")
-
