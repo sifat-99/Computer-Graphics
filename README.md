@@ -1,4 +1,4 @@
-# 🎮 Computer Graphics — CSE 364 Lab Portfolio
+# 🎮 Computer Graphics — CSE 341 Lab Portfolio
 
 > A comprehensive collection of **Computer Graphics** implementations — from foundational rasterization algorithms to a fully playable OpenGL Flappy Bird game and an interactive chess engine. Built with Python.
 
