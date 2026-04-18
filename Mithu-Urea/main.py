@@ -7,6 +7,8 @@ try:
     from OpenGL.GL import *  # type: ignore[import]  # noqa: F401, F403
     from OpenGL.GLUT import *  # type: ignore[import]  # noqa: F401, F403
     from OpenGL.GLU import *  # type: ignore[import]  # noqa: F401, F403
+
+
 except ModuleNotFoundError as e:
     print(f"Missing module: {e.name}")
     print("This script must run with the project's virtual environment.")
